@@ -10,9 +10,9 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-* [ ] Image and introductory message displayed on screen
-* [ ] Button displayed on screen
-* [ ] Toast with message appears when button is pressed 
+* [X] Image and introductory message displayed on screen
+* [X] Button displayed on screen
+* [X] Toast with message appears when button is pressed 
 
 The following **optional** features are implemented:
 
@@ -22,18 +22,15 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+http://g.recordit.co/RQzFbLGVCD.gif
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
+GIF created with Recordit 
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Android Studio takes a lot of storage space and some of the challenges that I faced was having to deal with low storage problems.
 
 ## License
 
